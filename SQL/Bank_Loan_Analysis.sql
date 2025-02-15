@@ -1,5 +1,5 @@
 
---1) FOR KPI’s:
+--1) FOR KPIâ€™s:
 
 --Count the total number of loan applications
 Select COUNT(id) as Total_Loan_Applications from bank_loan_data;
@@ -112,7 +112,7 @@ WHERE loan_status = 'Charged Off'
         loan_status
 
 --Calculates the key loan metrics by loan status For December 2021
-		SELECT 
+	SELECT 
 	loan_status, 
 	SUM(total_payment) AS MTD_Total_Amount_Received, 
 	SUM(loan_amount) AS MTD_Total_Funded_Amount 
