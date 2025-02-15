@@ -14,7 +14,7 @@ This project analyzes **bank loan data** to understand total loan applications, 
 ## 📂 Dataset  
 **Source**: Kaggle (Financial Loan Dataset)  
 **Contains**: 
-- Loan Applications, Total Funded Amount, Total Amount Received, Interest Rate and Borrower’s Debt-to-Income Ratio (DTI)
+- Loan Applications, Total Funded Amount, Total Amount Received, Interest Rate, Borrower’s Debt-to-Income Ratio (DTI)
 - Good loan Vs Bad loan issued
 - Loan Status (Charged off, Current and Fully paid)
 
