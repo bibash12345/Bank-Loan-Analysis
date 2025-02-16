@@ -1,22 +1,21 @@
-# Bank-Loan-Analysis
+# Bank Loan Analysis
 
 ## 📌 Power BI Dashboard Overview  
 ![Bank Loan Dashboard](Dashboard_overview.png)
 
-This project analyzes **bank loan data** to understand total loan applications, total funded amount, total amount received, average interest rate and average DTI of year 2021. Tile slicers is used for loan grade by which users can filter according to it and gain insights. Using **SQL, Power BI, and Excel**, we extract insights that help in financial decision-making.
+This project analyzes **bank loan data** to understand total loan applications, total funded amount, total amount received, average interest rate, average DTI, loan status of the year 2021. Tile slicers is used for loan grade by which users can filter according to it and gain insights. Using **SQL, Power BI, and Excel**, we extract insights that help in financial decision-making.
 
 ## 🛠 Tools Used
-- **SQL** → Data extraction & analysis  
-- **Power BI** → Dashboard visualization  
+- **Power BI** → Dashboard visualization 
+-  **SQL** → Data extraction & analysis   
 - **Excel** → Data cleaning & preprocessing  
 - **GitHub** → Project hosting  
 
 ## 📂 Dataset  
 **Source**: Kaggle (Financial Loan Dataset)  
 **Contains**: 
-- Loan Applications, Funded Amount, Amount Received, Interest Rate, Borrower’s Debt-to-Income Ratio (DTI)
-- Good loan Vs Bad loan issued
-- Loan Status (Charged off, Current and Fully paid)
+- Id, Loan Amount, Total Payment, Interest Rate, Issue Date, Application Type
+- Loan Status (Charged off, Current and Fully paid), loan grade
 
 ## 📊 Key Insights
 **In Year 2021:**
