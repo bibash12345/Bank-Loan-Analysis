@@ -3,7 +3,7 @@
 ## 📌 Power BI Dashboard Overview  
 ![Bank Loan Dashboard](Dashboard_overview.png)
 
-This project analyzes **bank loan data** to understand total loan applications, total funded amount, total amount received, average interest rate, average DTI, loan status of the year 2021. Tile slicers is used for loan grade by which users can filter according to it and gain insights. Using **SQL, Power BI, and Excel**, we extract insights that help in financial decision-making.
+This project analyzes **bank loan data** to understand total loan applications, total funded amount, total amount received, average interest rate, average DTI, loan status of the year 2021. Tile slicers is used for loan grade by which users can filter according to it and gain insights. Using **SQL, Power BI, and Excel**, I extracted insights that can help in financial decision-making.
 
 ## 🛠 Tools Used
 - **Power BI** → Dashboard visualization 
